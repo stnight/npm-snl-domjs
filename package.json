@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url":  
+    "url": "https://github.com/stnight/npm-snl-domjs"  
   },
   "author": "John Eric Torres Orolfo",
   "license": "ISC"
