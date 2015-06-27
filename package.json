@@ -1,0 +1,20 @@
+{
+  "name": "snl-dom",
+  "version": "1.0.0",
+  "description": "A js Library for easy templating of HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "DOM",
+    "npm"
+  ],
+  "repository": {
+    "type": "git",
+    "url":  
+  },
+  "author": "John Eric Torres Orolfo",
+  "license": "ISC"
+}
